@@ -1,6 +1,11 @@
 # ⚔️ JJBA Time Fighters
 
-🕹️ **Clique ici pour jouer :** [https://ej7zrh.csb.app/](https://ej7zrh.csb.app/)
+## 🚀 Lancer le jeu
+
+Aucun téléchargement nécessaire !  
+Clique simplement sur le lien ci-dessous pour jouer directement dans ton navigateur :
+
+👉 [**JJBA Time Fighters sur CodeSandbox**](https://ej7zrh.csb.app/)
 
 ---
 
@@ -29,7 +34,7 @@ L’ensemble est enrichi par de **nombreuses animations**, des **effets sonores 
 Ce jeu a été développé dans le cadre du **cours de conception et programmation orientée objet** à l’**EPF** en **2023**,  
 sous la supervision de **Benoît Darties**.
 
-- 🎓 **Année** : 2ème année d’école d’ingénieur  
+- 🎓 **Année** : 2ème année à l'EPF 
 - 🧰 **Objectif pédagogique** : concevoir un jeu vidéo en appliquant les principes de la **programmation orientée objet**  
 - 💡 **Focus** : architecture, modularité, animations, logique de combat
 
@@ -41,15 +46,6 @@ sous la supervision de **Benoît Darties**.
 - 🎮 **Moteur de jeu** : [Phaser](https://phaser.io/)  
 - 💻 **Environnement** : [CodeSandbox](https://codesandbox.io)  
 - 🎨 **Assets** : sprites, sons et cinématiques personnalisés
-
----
-
-## 🚀 Lancer le jeu
-
-Aucun téléchargement nécessaire !  
-Clique simplement sur le lien ci-dessous pour jouer directement dans ton navigateur :
-
-👉 [**JJBA Time Fighters sur CodeSandbox**](https://ej7zrh.csb.app/)
 
 ---
 
