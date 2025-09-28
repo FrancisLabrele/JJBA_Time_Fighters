@@ -1,2 +1,3 @@
 # JJBA_Time_Fighters
-Created with CodeSandbox
+
+Go to https://ej7zrh.csb.app/ to play my game !
